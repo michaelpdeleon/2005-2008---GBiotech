@@ -11,5 +11,7 @@ This website was meant to give information about the future research and collabo
 I oversaw the full development cycle of this project from design, coding, to maintenance.  
 # Screenshots:
 ![Screenshot](github/github_screenshot_gb1.jpg)  
+
 ![Screenshot](github/github_screenshot_gb2.jpg)  
+
 ![Screenshot](github/github_screenshot_gb3.jpg)  
